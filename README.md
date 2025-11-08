@@ -26,8 +26,14 @@
 ---
 
 ## 📈 GitHub Stats
-![Sahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahardel92&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahardel92&layout=compact&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahardel92&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahar's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahardel92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
