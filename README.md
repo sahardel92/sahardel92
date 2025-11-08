@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sahar Dellouz
+# 👋 Hi, I'm Sahar
 
 🎯 **Full-Stack Web Developer (in training at Interface3, Brussels)**  
 💡 Passionate about web development, AI, and cybersecurity.  
