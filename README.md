@@ -37,7 +37,6 @@
 | Project | Description |
 |----------|-------------|
 | [**LilyShop**](https://github.com/sahardel92/MyProject-E-commerce) | E-commerce platform built with Symfony |
-| [**PayGap Quest**](https://github.com/sahardel92/PayGap) | Hackathon project on salary gap analysis |
 | [**Portfolio Website**](https://github.com/sahardel92/Portfolio) | Personal portfolio built with HTML/CSS/JS |
 
 ---
