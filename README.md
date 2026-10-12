@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahar
 
-🎯 **Full-Stack Web Developer (in training at Interface3, Brussels)**
+🎯 **Full-Stack Web Developer (Brussels)**
 
 💡 Passionate about full-stack development — PHP/Symfony & C#/ASP.NET.
 
